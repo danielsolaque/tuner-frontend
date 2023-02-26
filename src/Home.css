@@ -1,0 +1,15 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    overflow: hidden;
+    background-color: #f2eee7;
+}
+
+.home h1 {
+    background-color: #ef6464;
+    color: white;
+    padding: 24px 64px;
+    border-radius: 12px;
+}
